@@ -1,4 +1,4 @@
-# 📱 DEMO_APP – Flutter Quiz & Weather App
+# 📱 Flutter Quiz & Weather App
 
 This is a Flutter-based mobile application that combines two main features:
 - ✅ A simple interactive **Quiz App** for user engagement.
@@ -6,7 +6,7 @@ This is a Flutter-based mobile application that combines two main features:
 
 ---
 
-## 📂 Project Structure
+## 📂 Sturcture of the project
 
 ```
 lib/
@@ -20,9 +20,9 @@ lib/
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🎯 Quiz Module
+### Quiz Module
 - Multiple questions and answer choices
 - Dynamic score tracking
 - Feedback on selected answers
@@ -34,7 +34,7 @@ lib/
 
 ---
 
-## 🔑 Environment Variables
+##  for Environment Variables
 
 Create a `.env` file in the root with the following format:
 
@@ -44,7 +44,7 @@ OPENWEATHER_API_KEY=your_api_key_here
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 - flutter_dotenv
 - http
@@ -78,6 +78,4 @@ flutter run
 ![emualtor_quiz](assets/images/emulator_weather.png)
 
 
-## 🧠 Author
 
-**Abiaba Mohamed** 
